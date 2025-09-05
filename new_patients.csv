@@ -1,0 +1,5 @@
+name,dob,doctor,location,email,phone,insurance_member_id,insurance_group,status
+teena,,Dr. Brown,,saisreereddysangam@gmail.com,,,group 1,new
+teena,2004-07-19,Dr. Brown,,saisreereddysangam@gmail.com,,,g1,new
+teena,,Dr. Gray,,saisreereddysangam@gmail.com,,,,new
+teena,2004-07-19,Dr. Teena,,saisreereddysangam@gmail.com,,,g1,new

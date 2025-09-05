@@ -1,0 +1,7 @@
+streamlit
+pandas
+faker
+openpyxl
+langchain
+langchain-ollama
+python-dotenv
